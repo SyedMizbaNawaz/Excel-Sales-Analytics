@@ -17,7 +17,7 @@ The Sales Analytics project aims to analyze sales data to extract actionable ins
 The analysis involves the following steps:
 
 Data Cleaning: Handling missing values, correcting data types, etc.
-Data Transformation: Aggregating sales data, calculating KPIs, etc.
+Data Transformation: Aggregating sales data, etc.
 Visualization: Creating charts and graphs to visualize sales trends.
 ## Results
 The results of the analysis include:
